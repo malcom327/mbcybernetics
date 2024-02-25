@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kubernetes, GitOps, and the Cloud
+title: SOAR
 permalink: /devops/
-description: Contemporary DevOps Skills 
+description: Demisto XSOAR, Splunk SOAR, FontiSOAR 
 image: assets/images/kubegitops.jpg
 nav-menu: true
 ---
