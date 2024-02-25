@@ -2,7 +2,7 @@
 layout: post
 title: SOAR
 permalink: /devops/
-description: Demisto XSOAR, Splunk SOAR, FontiSOAR 
+description: Demisto XSOAR, Splunk SOAR, CrowdStrike Fusion, FontiSOAR 
 image: assets/images/kubegitops.jpg
 nav-menu: true
 ---
