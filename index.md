@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 
-landing-title: Hi, I'm JP Lumsdaine<br \> I want to help you solve your data challenges.
+landing-title: Hey there! I'm Malik Bennabi<br \> I can help you secure your ogr, save time & money.
 description: null
 image: null
 author: null
