@@ -1,21 +1,13 @@
 ---
-title: Observability Pipelines (Cribl)
+title: EDR & VM
 layout: post
 permalink: /cribl/
-description: 'Building the future of Observability'
+description: VMwareCarbon Black, CrowdStrike Falcon, Rapid7, Qualys
 image: assets/images/criblflow.jpg
 nav-menu: true
 ---
 
-Making the most of observability data requires more than one analytics tool.
-
-Observability pipelines, like traditional data warehouse pipelines, provide a way for Observability teams to control and shape data, and manage data coming from cloud and container platforms.
-
-Cribl is the most exciting tool in this space, as it provides the best pathway from legacy SIEM tools to a future where data is readily available at sensible price.
-
-I am a certified CCOE Admin
-
-I have set up  Proof of Concepts with Cribl, routing and reducing datasets up to 5TB/day
+Endpoint Detection and Response (EDR) tools play a crucial role in cybersecurity by monitoring and responding to security incidents on endpoints (e.g., computers, servers, and mobile devices)
 
 
 
