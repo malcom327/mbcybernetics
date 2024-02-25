@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SIEM 
-permalink: /SIEM/
+permalink: /splunk/
 description: 'Splunk, Exabeam, Cribl, Qradar'
 image: assets/images/splunksearch.jpg
 nav-menu: true
