@@ -2,19 +2,19 @@ plugins:
   - jekyll-seo-tag
 
 # site settings
-title: JP Lumsdaine
-subtitle: Data Engineer
-email: jp@60woodvale.com
-description: The future of Observability is having all your data available before you know what questions to ask.<br /> 
+title: Malik Bennabi
+subtitle: Cyber Security, SOAR, Threat Automation Engineer
+email: malik.bennabi@cyberservices.com
+description: It is not about tools, it is more about using them well.<br /> 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://jp.60woodvale.com
-author: JP Lumsdaine
+url: Coming soon
+author: Malik Bennabi
 #street_address: 
-city: Cork 
+city: North West 
 #state: 
 #zip_code: 
-country: Ireland
-phone: +353 87 185 4649
+country: United Kingdom
+phone: +44 Coming soon
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -25,8 +25,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/hawmps
-  LinkedIn: https://www.linkedin.com/in/lumsdaine
+  GitHub: https://github.com/malcom327
+  LinkedIn: https://www.linkedin.com/in/malikbennabi/
 
 defaults:
   - scope:
