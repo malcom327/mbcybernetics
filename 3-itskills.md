@@ -1,8 +1,8 @@
 ---
 layout: post
-title: IT Systems Administration 
+title: IT & ITSM 
 permalink: /sysadmin/
-description: Broad IT Skillset
+description: IT Administration, ServiceNow, JIRA, Confluence
 image: assets/images/codeexample.jpg
 nav-menu: true
 ---
