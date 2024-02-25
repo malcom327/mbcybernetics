@@ -13,7 +13,7 @@ nav-menu: true
     <tbody>
       <tr>
         <td>Role</td>
-        <td>Architect and Technical Lead</td>
+        <td>Engineer, Analyst, QA</td>
       </tr>
       <tr>
         <td>Largest Infrastructure </td>
