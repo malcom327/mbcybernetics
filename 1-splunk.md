@@ -13,6 +13,8 @@ nav-menu: true
 </div>
 <hr class="major" />  
 
+<h5>Splunk</h5>
+
 In pivotal roles as a Splunk Consultant and Automation Expert, I have successfully contributed to various initiatives, seamlessly integrating platforms, optimizing workflows, and implementing tailored solutions. Highlights of my achievements include:
 
 - Implemented Splunk - ServiceNow SIR module, playing a key role in seamless integration.
