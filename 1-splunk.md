@@ -9,18 +9,8 @@ nav-menu: true
 
 <h4>Highlights</h4>
 <div class="table-wrapper">
- <table>
-    <tbody>
-      <tr>
-        <td>Key roles</td>
-        <td>I bring a wealth of SIEM proficiency with a focused expertise in Splunk, Exabeam, and IBM Qradar. Excelling as a Splunk Engineer and Cyber Security Improvements Engineer, my roles encompassed optimizing software and performance, contributing to global security solutions, and showcasing a versatile skill set within SIEM frameworks.</td>
-      </tr>
-      <tr>
-        <td>Cloud Experience</td>
-        <td>Google Cloud, AWS, Azure </td>
-      </tr>
-    </tbody>
-  </table>
+ <p>I bring a wealth of SIEM proficiency with a focused expertise in Splunk, Exabeam, and IBM Qradar. Excelling as a Splunk Engineer and Cyber Security Improvements Engineer, my roles encompassed optimizing software and performance, contributing to global security solutions, and showcasing a versatile skill set within SIEM frameworks.   
+  </p>
 </div>
 <hr class="major" />  
 <h5>Splunk</h5>
