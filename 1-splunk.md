@@ -9,13 +9,25 @@ nav-menu: true
 
 <h4>Highlights</h4>
 <div class="table-wrapper">
-
+ <table>
+    <tbody>
+      <tr>
+        <td>Key roles</td>
+        <td>I bring a wealth of SIEM proficiency with a focused expertise in Splunk, Exabeam, and IBM Qradar. Excelling as a Splunk Engineer and Cyber Security Improvements Engineer, my roles encompassed optimizing software and performance, contributing to global security solutions, and showcasing a versatile skill set within SIEM frameworks.</td>
+      </tr>
+      <tr>
+        <td>Cloud Experience</td>
+        <td>Google Cloud, AWS, Azure </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <hr class="major" />  
 <h5>Splunk</h5>
 
 In pivotal roles as a Splunk Consultant and Automation Expert, I have successfully contributed to various initiatives, seamlessly integrating platforms, optimizing workflows, and implementing tailored solutions. Highlights of my achievements include:
 
+- Monitored and Maintained Splunk ITSI & Telemetry, ensuring effective oversight and management of IT Service Intelligence and Telemetry functionalities.
 - Implemented Splunk - ServiceNow SIR module, playing a key role in seamless integration.
 - Troubleshot Log Sources in Error (LSE) and forwarders in Splunk, developing automated solutions for efficient detection and resolution.
 - Customized scoring, SLAs, and processes for Vulnerability Management in Splunk and ServiceNow.
