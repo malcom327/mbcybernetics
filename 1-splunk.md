@@ -35,6 +35,16 @@ In pivotal roles as a Splunk Consultant and Automation Expert, I have successful
 - Developed Splunk system enhancements, configurations, and onboarding new data feeds.
 - Utilized Splunk search language to support fraud mitigation efforts and managed Splunk Enterprise with Universal Indexing, Search & Investigation, Monitor & Alert, Report & Analyze, Custom Dashboard & Views, Platform for Apps, and Developers.
 
+<h5>Exabeam & Qradar</h5>
+In a dynamic role as a Cyber Security Improvements Engineer, I played a vital part in enhancing security platforms, with a focus on Exabeam Radar. Key accomplishments include:
+
+- Troubleshot Log Sources in Error and Event Collectors on various platforms, such as Linux, Windows, F5, and Firewall devices, ensuring seamless integration with Qradar, Exabeam, and AlertLogic.
+Employed Python and ElasticSearch API scripting to generate inventory and Log Source in Error reports from Exabeam, enhancing operational efficiency.
+- Managed and maintained critical security platforms globally, overseeing SIEM (Qradar & Exabeam), threat intelligence (Anomali), and incident response toolsets like Exabeam Data Lake, Incident Responder, and Advanced Analytics (Searches, Visualisations, Dashboards, Use cases – Mitre Att&ck).
+- Administered and maintained Qradar console, events & flow collectors/processors, and data nodes, ensuring optimal performance and resolving issues promptly.
+- Supported the migration from Qradar to Exabeam, efficiently handling the off-boarding/on-boarding of logs.
+- Utilized QRadar for comprehensive aims, including observing full visibility into global network, application, and user activity, real-time correlation, analyzing login activity for potential malicious login identification, and investigating endpoint activity to detect malware infections before causing damage to business operations.
+  
 <p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" /></span>Complex queries on semi-structured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. </p>
 
 I am an experienced technical lead and can lead and mentor junior Splunk administrators and developers, as well present roadmaps and budget plans to management. 
