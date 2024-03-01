@@ -12,7 +12,7 @@ nav-menu: true
  <p>I bring a wealth of SIEM proficiency with a focused expertise in Splunk, Exabeam, and IBM Qradar. Excelling as a Splunk Engineer and Cyber Security Improvements Engineer, my roles encompassed optimizing software and performance, contributing to global security solutions, and showcasing a versatile skill set within SIEM frameworks.   
   </p>
 </div>
-<hr class="major" />  
+#<hr class="major" />  
 <h5>Splunk</h5>
 
 In pivotal roles as a Splunk Consultant and Automation Expert, I have successfully contributed to various initiatives, seamlessly integrating platforms, optimizing workflows, and implementing tailored solutions. Highlights of my achievements include:
