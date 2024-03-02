@@ -37,7 +37,8 @@ nav-menu: true
 - Led a migration project from Phantom (Splunk SOAR) to Demisto XSOAR, overseeing the end-to-end migration from XSOAR6 to XSOAR8.
   
 - Actively contributed to the continuous optimization of phishing feedback processes, improving workflows in both Splunk ES and XSOAR indicators' enrichments.
-  
+
+
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
