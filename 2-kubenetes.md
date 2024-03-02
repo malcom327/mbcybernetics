@@ -15,7 +15,10 @@ nav-menu: true
 <div class="table-wrapper">
  <p>With profound expertise in SOAR technologies, particularly in platforms like Demisto XSOAR, Splunk SOAR (Phantom), Exabeam SOAR, and IBM Resilient, I excel as a seasoned SOAR Consultant and Cyber Security Automation Engineer. My focus lies in enhancing automation capabilities, optimizing software and performance, and contributing to comprehensive global security solutions within the dynamic landscape of Security Orchestration, Automation, and Response (SOAR) frameworks.</p>
 </div>
-<hr class="major" />
+
+<hr class="major" />  
+<h5>SOAR</h5>
+
 - Demonstrated expertise in various use case improvements and evaluations within the dynamic field of security automation.
 
 - Collaborated with cross-functional teams to assess, design, and implement tailored SOAR solutions.
