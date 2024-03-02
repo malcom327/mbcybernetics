@@ -18,16 +18,27 @@ nav-menu: true
 <hr class="major" />  
 <h5>Demisto XSOAR</h5>
 In my role as a seasoned professional in security automation, I have consistently demonstrated expertise in enhancing security measures through the implementation of robust solutions and comprehensive coverage. Here are key highlights of my contributions in the realm of security automation, drawing from both consultancy and engineering responsibilities:
+
 - Demonstrated expertise in various use case improvements and evaluations within the dynamic field of security automation.
+  
 - Collaborated with cross-functional teams to assess, design, and implement tailored SOAR solutions.
+  
 - Conducted in-depth analysis of security processes, providing strategic recommendations and contributing to the development of efficient and automated workflows.
+  
 - Played a key role in defining and enforcing best practices for SOAR implementation, ensuring alignment with industry standards and regulatory requirements.
+  
 - Assumed responsibility for the integration of diverse security tools and technologies, streamlining operations and enhancing overall security posture.
+  
 - Developed and implemented sophisticated automation for phishing detection and response, employing advanced techniques to identify and mitigate phishing threats promptly.
+  
 - Led training sessions and knowledge-sharing initiatives to empower teams with advanced SOAR capabilities, fostering a culture of continuous improvement and innovation.
+  
 - Served as a trusted SOAR Subject Matter Expert, leading initiatives such as use case proposals, evaluations, development, testing, and deployments.
+  
 - Owned and maintained the XSOAR platform, ensuring seamless operation and troubleshooting when needed.
+  
 - Led a migration project from Phantom (Splunk SOAR) to Demisto XSOAR, overseeing the end-to-end migration from XSOAR6 to XSOAR8.
+  
 - Actively contributed to the continuous optimization of phishing feedback processes, improving workflows in both Splunk ES and XSOAR indicators' enrichments.
 
 <h5>Exabeam & Qradar</h5>
