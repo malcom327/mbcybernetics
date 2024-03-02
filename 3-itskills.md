@@ -12,16 +12,12 @@ nav-menu: true
     <tbody>
       <tr>
         <td>Scripting Languages</td>
-        <td>Python, Shell, Powershell</td>
-      </tr>
-      <tr>
-        <td>Server Administration Tools</td>
-        <td>Ansible, CFEngine</td>
+        <td>Python, Powershell, Shell</td>
       </tr>
         <tr>
         <td>Tools Managed</td>
-        <td>HyperV, VSphere, JIRA, Confluence, Kaspersky AV, Gitlab, Splunk,
-        Elastic, Cribl, Bind, nginx, Apache httpd, HAProxy, MySQL/MariaDB</td>
+        <td>JIRA, Confluence, ServiceNow, Azure DevOps, Gitlab,
+      </td>
       </tr>
 
     </tbody>
