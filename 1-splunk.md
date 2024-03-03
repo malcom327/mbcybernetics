@@ -21,7 +21,6 @@ In pivotal roles as a Splunk Consultant and Automation Expert, I have successful
 - Customized scoring, SLAs, and processes for Vulnerability Management in Splunk and ServiceNow.
 - Developed a customized File Integrity Monitoring (FIM) solution using Carbon Black enriched events and a specialized Splunk App.
 - On-boarded new data sources to Splunk, configuring forwarders and parsing/extracting fields for IR team use.
-- Implemented phishing feedback processes, continuously optimizing workflows in Splunk ES and XSOAR indicators' enrichments.
 - Developed alerts, dashboards, and reporting using Splunk, ensuring effective monitoring and maintenance of Splunk ITSI & Telemetry.
 - Documented alerts with playbooks for on-call responders and managed the onboarding of services to Splunk.
 - Conducted threat hunting and investigation of anomalous data.
