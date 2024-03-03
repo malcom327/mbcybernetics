@@ -32,6 +32,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Algérie Télécom
 - Sakarya Üniversitesi
 - Universidad De Oviedo
+- University of South Florida / US National Science Foundation
 - I-Sen
 - Turkcell
 - FXCubic
