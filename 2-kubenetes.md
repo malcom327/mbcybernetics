@@ -32,7 +32,7 @@ nav-menu: true
 - Led a migration project from Phantom (Splunk SOAR) to Demisto XSOAR, overseeing the end-to-end migration from XSOAR6 to XSOAR8.
 - Actively contributed to the continuous optimization of phishing feedback processes, improving workflows in both Splunk ES and XSOAR indicators' enrichments.
 
-<h5>SOAR in the wild</h5>
+
 <p>The developed use cases encompass a range of meticulously designed and built scenarios, each tailored to address specific cybersecurity requirements. These use cases are thoughtfully developed to enhance security measures, utilizing a combination of strategic design and meticulous construction. They are crafted to seamlessly integrate into existing cybersecurity frameworks, contributing to a more robust and proactive security posture.</p>
 
 <dl>
