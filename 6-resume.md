@@ -30,7 +30,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 
 ## Clients & Companies Worked With 
 - <p><span class="image left"><img src="{% link assets/images/AT.png %}" alt="" /></span>  Algérie Télécom
-- Sakarya Üniversitesi
+- <p><span class="image left"><img src="{% link assets/images/sau.png %}" alt="" /></span>  Sakarya Üniversitesi
 - Universidad De Oviedo
 - University of South Florida / US National Science Foundation
 - I-Sen
