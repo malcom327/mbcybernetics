@@ -3,7 +3,7 @@ title: EDR & VM
 layout: post
 permalink: /cribl/
 description: VMwareCarbon Black, CrowdStrike Falcon, Rapid7, Qualys
-image: assets/images/criblflow.jpg
+image: assets/images/edr.png
 nav-menu: true
 ---
 
