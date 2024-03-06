@@ -3,7 +3,7 @@ layout: post
 title: IT & ITSM 
 permalink: /sysadmin/
 description: IT Administration, ServiceNow, JIRA, Confluence
-image: assets/images/codeexample.jpg
+image: assets/images/itsm2.jpeg
 nav-menu: true
 ---
 <h4>Highlights</h4>
