@@ -3,7 +3,7 @@ layout: post
 title: SOAR
 permalink: /devops/
 description: Demisto XSOAR, Splunk SOAR, CrowdStrike Fusion, FontiSOAR 
-image: assets/images/kubegitops.jpg
+image: assets/images/playbook.png
 nav-menu: true
 ---
 <h4>Highlights</h4>
