@@ -29,7 +29,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 <hr class="major" />
 
 ## Clients & Companies Worked With 
-- Algérie Télécom
+- <p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" Algérie Télécom
 - Sakarya Üniversitesi
 - Universidad De Oviedo
 - University of South Florida / US National Science Foundation
