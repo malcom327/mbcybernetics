@@ -45,13 +45,10 @@ Embarking on my journey into cybersecurity, my professional background is rooted
 Expanding on my versatile skill set, I have also delved into various domains, showcasing proficiency in a myriad of areas:
 
 - Building ML predictive models on Python using Tensorflow & Pandas, R, and SAS
-- Utilizing Splunk search language for supporting fraud mitigation efforts
-- Ingesting new data sources to implement use cases, dashboards, and automated reports via file monitors, DB Connect, and scripted inputs
 - Investigating cloud service usage within the enterprise, understanding employee utilization patterns
 - Network design, implementation, and maintenance across LAN and WLAN environments
-- Troubleshooting network and security issues with expertise in CISCO, Palo Alto Endpoint Security Manager, and F-Secure Server
+- Troubleshooting network and security issues with expertise in CISCO equipement
 - Networking configuration encompassing subnets, network class, routing, switching, DNS, VLAN, NAT/PAT, VPN Tunnel, IPsec, and SSL encryption
-- User authentication management using RSA Security Console
 - Network monitoring proficiency with tools like Solarwinds
 - Performing vulnerability and network scanning, simulating security breaches for system security testing
 - Analyzing TCP/UDP issues using Wireshark, configuring anti-virus products and SSL certificates
@@ -66,7 +63,6 @@ Expanding on my versatile skill set, I have also delved into various domains, sh
 - Creating a web interpretation interface using Python Django
 - Writing research papers (IJMLNCE.2018v02i02.002)
 - Reviewing colleagues' code & work
-- Consolidating, deploying, and monitoring back office servers and SAN storage
 - Providing Linux systems support and administration
 - Participating in a 24/7 on-call support rotation
 - Researching and implementing a PKI infrastructure for certificate-based authentication
