@@ -12,11 +12,11 @@ nav-menu: true
     <tbody>
       <tr>
         <td>Scripting Languages</td>
-        <td>Python, Powershell, Shell</td>
+        <td>Python, Powershell, Shell, MQL4&5 Expert Adviser</td>
       </tr>
         <tr>
-        <td>Tools Managed</td>
-        <td>JIRA, Confluence, ServiceNow, Azure DevOps, Gitlab,
+        <td>Tools </td>
+        <td>Confluence, ServiceNow, Azure DevOps, Gitlab, MetaTrader 4 & 5, CTrader, FIX Protocol, Selenium, Jira, Docker, Tensorflow, Zoho tools (Desk, Projects, Assist, CRM, SalesIQ, Flow), Wireshark, Arduino, Numpy, Pandas
       </td>
       </tr>
 
@@ -24,14 +24,58 @@ nav-menu: true
   </table>
 </div>
 
+## Before Secuirty
 
-Before getting into data engineering I was a Systems Administrator. I was responsible for server administration, database administration, basic website building, security tools management, and more. Managing a large on premise  Splunk environment is almost like running a small data center, where hundreds of bare metal servers need to communicate.  
-  
-This broad skill base not only helps in day to day administration of Splunk, but helps me talk to stakeholders across the IT organization.   
+Embarking on my journey into cybersecurity, my professional background is rooted in comprehensive software quality assurance and systems administration. A significant part of my experience involved performing white/black box, stress, and complex functionality testing for FXCubic Forex Bridge and FXI Business Intelligence. My responsibilities extended to:
 
-In a perfect world nothing would ever go wrong with our environments, but complex systems inevitably fail. I am highly experienced in debugging Splunk and data pipeline issues. Whether its a configuration issue,  performance problems, memory leaks within applications, or in one memorable instance, a linux kernel memory leak triggered by Systemd -  I have a systematic approach to rapidly solve and remediate problems. Equally important is the post incident follow up. I can lead reporting, documentation, and process modification to help teams learn from and avoid service problems. 
+- Assessing compatibility across various trading and technology platforms: MetaTrader 4 & 5, CTrader, FIX Protocol, APIs
+- Network infrastructure management, including Firewalls, Routers, tunnel, VPN, Load Balancers, and Switches
+- Database management with a focus on SQL and SQL light
+- Expertise in MQL4&5 Expert Adviser
+- Providing internal support and training to new employees
+- Leading a support team to deliver technical application support to customers
+- Delivering process automation and integrating existing toolsets for system patches, leveraging CI/CD pipelines, Selenium, Jira, and scripting with Bash & Python, as well as Docker containment
+- Unix/Linux/Windows systems administration
+- High-level review and definition of appropriate change and financial controls for best practice testing
+- Assessing the current estate, identifying functionality gaps, reporting to management, and utilizing Jet Reports & Power BI
+- Attending weekly meetings with support staff to review items in progress and backlog
+- Providing security enforcement and vulnerability scanning
+- Automating office workflows using Zoho tools: Desk, Projects, Assist, CRM, SalesIQ, Flow
 
+Expanding on my versatile skill set, I have also delved into various domains, showcasing proficiency in a myriad of areas:
 
+- Building ML predictive models on Python using Tensorflow & Pandas, R, and SAS
+- Utilizing Splunk search language for supporting fraud mitigation efforts
+- Ingesting new data sources to implement use cases, dashboards, and automated reports via file monitors, DB Connect, and scripted inputs
+- Investigating cloud service usage within the enterprise, understanding employee utilization patterns
+- Network design, implementation, and maintenance across LAN and WLAN environments
+- Troubleshooting network and security issues with expertise in CISCO, Palo Alto Endpoint Security Manager, and F-Secure Server
+- Networking configuration encompassing subnets, network class, routing, switching, DNS, VLAN, NAT/PAT, VPN Tunnel, IPsec, and SSL encryption
+- User authentication management using RSA Security Console
+- Network monitoring proficiency with tools like Solarwinds
+- Performing vulnerability and network scanning, simulating security breaches for system security testing
+- Analyzing TCP/UDP issues using Wireshark, configuring anti-virus products and SSL certificates
+- Managing Splunk Enterprise, ensuring timely and accurate communication of alerts to IT, network, or security groups
+- Providing technical support internally and externally
+- Leading teams in designing Arduino test sets, conducting research, and data acquisition
+- Elaborating on data acquisition tools & techniques, prototyping with Arduino & sensors
+- Evaluating data analysis tools & libraries, setting project requirements in Python and R
+- Cleaning and analyzing data using Python (Numpy, Pandas) and R (Janitor, Dplyr)
+- Designing and writing ML algorithms in Python (ELI5, LIME, Tensorflow) and R (e1071, Rpart)
+- Visualizing and interpreting results, building Tensorflow graphs
+- Creating a web interpretation interface using Python Django
+- Writing research papers (IJMLNCE.2018v02i02.002)
+- Reviewing colleagues' code & work
+- Consolidating, deploying, and monitoring back office servers and SAN storage
+- Providing Linux systems support and administration
+- Participating in a 24/7 on-call support rotation
+- Researching and implementing a PKI infrastructure for certificate-based authentication
+- Displaying troubleshooting skills in analyzing hardware configurations and isolating malfunctioning components
+- Replacing vulnerable network infrastructure with robust security architecture
+- Monitoring server reports, backup logs, and enforcing corrective actions when necessary
+- Applying effective organization, leadership, communication, and teamwork in all IT operations oversight
+- Administering LAN with over 200 computers, managing user account information in Active Directory, network rights, permissions, and Exchange administration
+- Studying Code Division Multiple Access/Wireless Local Loop technology, collaborating closely with MSC/WLL, HONET (MSAN), and CA engineers.
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
