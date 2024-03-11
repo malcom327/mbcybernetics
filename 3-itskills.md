@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT & ITSM 
+title: IT & ITSM & IT Security 
 permalink: /sysadmin/
 description: IT Administration, ServiceNow, JIRA, Confluence
 image: assets/images/itsm2.jpeg
@@ -14,8 +14,13 @@ nav-menu: true
         <td>Scripting Languages</td>
         <td>Python, Powershell, Shell, MQL4&5 Expert Adviser</td>
       </tr>
+       <tr>
+        <td>Security Tools </td>
+        <td>VMwareCarbon Black, CrowdStrike Falcon, Rapid7, Qualys, Tanium
+      </td>
+      </tr>
         <tr>
-        <td>Tools </td>
+        <td> IT Tools </td>
         <td>Confluence, ServiceNow, Azure DevOps, Gitlab, MetaTrader 4 & 5, CTrader, FIX Protocol, Selenium, Jira, Docker, Tensorflow, Zoho tools (Desk, Projects, Assist, CRM, SalesIQ, Flow), Wireshark, Arduino, Numpy, Pandas
       </td>
       </tr>
