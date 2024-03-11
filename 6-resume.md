@@ -27,8 +27,8 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 
 
 ## Clients & Companies Worked With 
-- <p><span class="image left"><img src="assets/images/AT.JPG" alt="" /></span>  Algérie Télécom
-- <p><span class="image left"><img src="assets/images/sau.png" alt="" /></span>  Sakarya Üniversitesi
+- Algérie Télécom
+- Sakarya Üniversitesi
 - Universidad De Oviedo
 - University of South Florida / US National Science Foundation
 - I-Sen
@@ -41,9 +41,12 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Johnson Controls
 
   <div id="logoBanner">
-    <img src="assets/images/sau.png" alt="Logo 1" class="logo">
+    <img src="assets/images/AT.png" alt="Logo 1" class="logo">
     <img src="assets/images/sau.png" alt="Logo 2" class="logo">
-    <img src="assets/images/sau.png" alt="Logo 3" class="logo">
+    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
+    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
+    <img src="assets/images/i-sen.pngg" alt="Logo 3" class="logo">
+    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
     <!-- Add more logo images as needed -->
   </div>
 
