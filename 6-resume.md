@@ -93,21 +93,6 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
   </ul>
 </body>
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="display: inline-block; margin-right: 10px;">
-      <img src="image1.jpg" alt="Image 1" style="width: 50px; height: auto; border-radius: 50%;">
-      <span style="display: block; text-align: center;">Description for Image 1</span>
-    </li>
-    <li style="display: inline-block; margin-right: 10px;">
-      <img src="image2.jpg" alt="Image 2" style="width: 50px; height: auto; border-radius: 50%;">
-      <span style="display: block; text-align: center;">Description for Image 2</span>
-    </li>
-    <li style="display: inline-block;">
-      <img src="image3.jpg" alt="Image 3" style="width: 50px; height: auto; border-radius: 50%;">
-      <span style="display: block; text-align: center;">Description for Image 3</span>
-    </li>
-  </ul>
-  
 ## Clients & Companies Worked With 
 - <p><span class="image left"><img src="assets/images/AT.JPG" alt="" /></span>  Algérie Télécom
 - <p><span class="image left"><img src="assets/images/sau.png" alt="" /></span>  Sakarya Üniversitesi
