@@ -34,10 +34,6 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
       <span>Algérie Télécom</span>
     </li>
     <li>
-      <img src="assets/images/sau.png" alt="Image 2">
-      <span>Description for Image 2</span>
-    </li>
-    <li>
       <img src="image3.jpg" alt="Sakarya Üniversitesi">
       <span>Sakarya Üniversitesi</span>
     </li>
