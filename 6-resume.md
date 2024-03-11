@@ -30,7 +30,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>List with Images</title>
+  <title>Clients & Companies Worked With</title>
 </head>
 <body>
 
