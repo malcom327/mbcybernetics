@@ -26,16 +26,12 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - SAP: Concepts and Initiation.
 
 
-<body>
-  <!-- Logo Banner -->
   <div id="logoBanner">
     <img src="assets/images/sau.png" alt="Logo 1" class="logo">
     <img src="assets/images/sau.png" alt="Logo 2" class="logo">
     <img src="assets/images/sau.png" alt="Logo 3" class="logo">
     <!-- Add more logo images as needed -->
   </div>
-
-</body>
 
 ## Clients & Companies Worked With 
 <head>
