@@ -28,6 +28,21 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 
 <hr class="major" />
 
+<ul>
+    <li>
+      <img src="assets/images/AT.png" alt="Algérie Télécom">
+      <span>Algérie Télécom</span>
+    </li>
+    <li>
+      <img src="assets/images/sau.png" alt="Image 2">
+      <span>Description for Image 2</span>
+    </li>
+    <li>
+      <img src="image3.jpg" alt="Sakarya Üniversitesi">
+      <span>Sakarya Üniversitesi</span>
+    </li>
+  </ul>
+
 ## Clients & Companies Worked With 
 - <p><span class="image left"><img src="assets/images/AT.png" alt="" /></span>  Algérie Télécom
 - <p><span class="image left"><img src="assets/images/sau.png" alt="" /></span>  Sakarya Üniversitesi
