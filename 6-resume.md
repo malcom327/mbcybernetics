@@ -43,6 +43,53 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
       <img src="assets/images/sau.png" alt="Sakarya Üniversitesi" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
       <span>Sakarya Üniversitesi</span>
     </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Universidad De Oviedo" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Universidad De Oviedo</span>
+    </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="University of South Florida / US National Science Foundation" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>University of South Florida / US National Science Foundation</span>
+    </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="I-Sen" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>I-Sen</span>
+    </li>
+     </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Turkcell" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Turkcell</span>
+    </li>
+     </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="FXCubic" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>FXCubic</span>
+    </li>
+     </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Willis Towers Watson" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Willis Towers Watson</span>
+    </li>
+      </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Department of Health and Social Care" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Department of Health and Social Care</span>
+    </li>
+      </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="UK Health Security Agency" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>UK Health Security Agency</span>
+    </li>
+       </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Flutter Entertainment / PuddyPower" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Flutter Entertainment / PuddyPower</span>
+    </li>
+       </li>
+        <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Johnson Controls" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <span>Johnson Controls</span>
+    </li>
   </ul>
 </body>
 
