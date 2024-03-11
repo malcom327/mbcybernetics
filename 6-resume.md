@@ -25,8 +25,8 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Cisco Certified Network Associate (2011)
 - SAP: Concepts and Initiation.
 
-<hr class="major" />
-<title>##Clients & Companies Worked With</title>
+
+## Clients & Companies Worked With 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
