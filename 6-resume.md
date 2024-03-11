@@ -40,26 +40,6 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Style for the logo banner */
-    #logoBanner {
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      background-color: #f4f4f4;
-      padding: 10px;
-    }
-    .logo {
-      max-width: 100px;
-      max-height: 50px;
-      margin: 0 10px;
-    }
-  </style>
-  <title>Logo Banner</title>
-</head>
   <div id="logoBanner">
     <img src="assets/images/AT.png" alt="Logo 1" class="logo">
     <img src="assets/images/sau.png" alt="Logo 2" class="logo">
