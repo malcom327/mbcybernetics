@@ -7,6 +7,31 @@ image: assets/images/resumestock.jpg
 nav-menu: true
 ---
 A more traditional CV/Profile can be provided on request. In the meantime, check out some highlights! 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Optional: Style for the list */
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    img {
+      width: 50px; /* Adjust the width as needed */
+      height: auto;
+      margin-right: 10px;
+      border-radius: 50%; /* Optional: Rounded corners for circular images */
+    }
+  </style>
+  <title>List with Images</title>
+</head>
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
