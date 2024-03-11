@@ -27,16 +27,25 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 
 <hr class="major" />
 
-<ul>
-    <li>
-      <img src="assets/images/AT.png" alt="Algérie Télécom">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>List with Images</title>
+</head>
+<body>
+
+  <!-- Unordered List with Images -->
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/AT.png" alt="Algérie Télécom" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
       <span>Algérie Télécom</span>
     </li>
-    <li>
-      <img src="assets/images/sau.png" alt="Sakarya Üniversitesi">
+    <li style="margin: 10px 0; display: flex; align-items: center;">
+      <img src="assets/images/sau.png" alt="Sakarya Üniversitesi" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
       <span>Sakarya Üniversitesi</span>
     </li>
   </ul>
+</body>
 
 ## Clients & Companies Worked With 
 - <p><span class="image left"><img src="assets/images/AT.png" alt="" /></span>  Algérie Télécom
