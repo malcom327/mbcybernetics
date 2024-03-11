@@ -36,7 +36,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
   <!-- Unordered List with Images -->
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin: 10px 0; display: flex; align-items: center;">
-      <img src="assets/images/AT.JPG" alt="Algérie Télécom" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
+      <img src="{% link assets/images/AT.JPG %}" alt="Algérie Télécom" style="width: 50px; height: auto; margin-right: 10px; border-radius: 50%;">
       <span>Algérie Télécom</span>
     </li>
     <li style="margin: 10px 0; display: flex; align-items: center;">
