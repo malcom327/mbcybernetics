@@ -40,6 +40,14 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
 
+<style>
+    /* CSS for images */
+    img {
+      width: 50px; /* Set width to desired size */
+      height: auto; /* Automatically adjust height to maintain aspect ratio */
+    }
+  </style>
+  
   <div id="logoBanner">
     <img src="../assets/images/AT.png" alt="Algérie Télécom" class="logo">
     <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" class="logo">
