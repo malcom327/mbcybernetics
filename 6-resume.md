@@ -52,14 +52,15 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
     <img src="../assets/images/AT.png" alt="Algérie Télécom" class="logo">
     <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" class="logo">
     <img src="../assets/images/uniovi.png" alt="Universidad De Oviedo" class="logo">
-    <img src="../assets/images/USF.png" alt="I-Sen" class="logo">
-    <img src="../assets/images/nsf.jpeg" alt="WTW" class="logo">
-    <img src="../assets/images/jci.png" alt="JCI" class="logo">
-    <img src="../assets/images/wtw.jpeg" alt="I-Sen" class="logo">
+    <img src="../assets/images/USF.png" alt="USF" class="logo">
+    <img src="../assets/images/nsf.jpeg" alt="NSF" class="logo">
+    <img src="../assets/images/i-sen.png" alt="I-Sen" class="logo">
+    <img src="../assets/images/turkcell.jpeg" alt="Turkcell" class="logo">
+    <img src="../assets/images/fxcubic.jpeg" alt="FXC" class="logo">
     <img src="../assets/images/wtw.jpeg" alt="WTW" class="logo">
-    <img src="../assets/images/jci.png" alt="JCI" class="logo">
-    <img src="../assets/images/wtw.jpeg" alt="I-Sen" class="logo">
-    <img src="../assets/images/wtw.jpeg" alt="WTW" class="logo">
+    <img src="../assets/images/dhsc.jpeg" alt="DHSC" class="logo">
+    <img src="../assets/images/ukhsa.jpeg" alt="WTW" class="logo">
+    <img src="../assets/images/flutter.jpeg" alt="WTW" class="logo">
     <img src="../assets/images/jci.png" alt="JCI" class="logo">
     <!-- Add more logo images as needed -->
   </div>
