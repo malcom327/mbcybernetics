@@ -71,7 +71,6 @@ Mühendislikte Yapay Zeka ve Uygulamaları 2; ISBN, 978-605-2238-08-0, Sakarya �
 Aralık (December) 2018, SAKARYA</dd></p>
 
 
-
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
