@@ -40,20 +40,11 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
 
- <style>
-    /* CSS for the image banner */
-    .image-banner {
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      background-color: #f4f4f4;
-      padding: 10px;
-    }
-
-    .image-banner img {
-      max-width: 100px;
-      max-height: 50px;
-      margin: 0 10px;
+  <style>
+    /* CSS for images */
+    img {
+      width: 80px; /* Set width to desired size */
+      height: 80px; /* Automatically adjust height to maintain aspect ratio */
     }
   </style>
   
