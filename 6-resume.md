@@ -41,12 +41,12 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Johnson Controls
 
   <div id="logoBanner">
-    <img src="assets/images/AT.png" alt="Logo 1" class="logo">
-    <img src="assets/images/sau.png" alt="Logo 2" class="logo">
-    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
-    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
-    <img src="assets/images/i-sen.pngg" alt="Logo 3" class="logo">
-    <img src="assets/images/uniovi.png" alt="Logo 3" class="logo">
+    <img src="assets/images/AT.png" alt="Algérie Télécom" class="logo">
+    <img src="assets/images/sau.png" alt="Sakarya Üniversitesi" class="logo">
+    <img src="assets/images/uniovi.png" alt="Universidad De Oviedo" class="logo">
+    <img src="assets/images/i-sen.png" alt="I-Sen" class="logo">
+    <img src="" alt="Logo 3" class="logo">
+    <img src="" alt="Logo 3" class="logo">
     <!-- Add more logo images as needed -->
   </div>
 
