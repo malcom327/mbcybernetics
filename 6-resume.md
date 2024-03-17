@@ -77,7 +77,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 
 <hr class="major" />
 
-## Scientific Publications 
+## Publications 
 <p>PREDICTION MODEL FOR POLLUTANTS WITH ONBOARD DIAGNOSTIC SENSORS IN VEHICLES: <dd>June 2018 - Vicente García Díaz, Bryce Maldonado, Malik Bennabi, Cristian González García, Edward Rolando Núñez-Valdez
 International Journal of Machine Learning and Networked Collaborative Engineering, Volume No- 02 Issue No-02</dd></p>
 <p>Turkish Food Recognition Using Deep Learning With Tensorflow: <dd>December 2018 - Malik Bennabi, Conrad Reuben Japhet
