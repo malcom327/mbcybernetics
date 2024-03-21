@@ -87,5 +87,5 @@ Aralık (December) 2018, SAKARYA</dd></p>
 
 
 <ul class="actions">
-<li><a href="/" class="button next scrolly">Back</a></li>
+<li><a href="https://malcom327.github.io//mbcybernetics/" class="button next scrolly">Back</a></li>
 </ul>
