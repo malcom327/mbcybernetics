@@ -29,7 +29,7 @@ nav-menu: true
   </table>
 </div>
 
-## Before Secuirty
+## Before Security
 
 Embarking on my journey into cybersecurity, my professional background is rooted in comprehensive software quality assurance and systems administration. A significant part of my experience involved performing white/black box, stress, and complex functionality testing for FXCubic Forex Bridge and FXI Business Intelligence. My responsibilities extended to:
 
