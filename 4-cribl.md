@@ -9,6 +9,7 @@ nav-menu: true
 
 Endpoint Detection and Response (EDR) tools play a crucial role in cybersecurity by monitoring and responding to security incidents on endpoints (e.g., computers, servers, and mobile devices)
 
+*** Section Under Maintenance *** Come back later :) !
 
 
 <ul class="actions">
