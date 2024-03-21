@@ -44,7 +44,7 @@ Employed Python and ElasticSearch API scripting to generate inventory and Log So
 - Supported the migration from Qradar to Exabeam, efficiently handling the off-boarding/on-boarding of logs.
 - Utilized QRadar for comprehensive aims, including observing full visibility into global network, application, and user activity, real-time correlation, analyzing login activity for potential malicious login identification, and investigating endpoint activity to detect malware infections before causing damage to business operations.
   
-<p><span class="image left"><img src="assets/images/complexquery.jpg" alt="" /></span> Why don't Splunk queries ever go to parties? Because they're always too busy searching for the best "group BY" clause! </p>
+<p><span class="image left"><img src="../assets/images/complexquery.jpg" alt="" /></span> Why don't Splunk queries ever go to parties? Because they're always too busy searching for the best "group BY" clause! </p>
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
