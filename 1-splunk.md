@@ -47,6 +47,6 @@ Employed Python and ElasticSearch API scripting to generate inventory and Log So
 <p><span class="image left"><img src="../assets/images/complexquery.jpg" alt="" /></span> Why don't Splunk queries ever go to parties? Because they're always too busy searching for the best "group BY" clause! </p>
 
 <ul class="actions">
-<li><a href="https://github.com/malcom327/mbcybernetics" class="button next scrolly">Back</a></li>
+<li><a href="https://malcom327.github.io//mbcybernetics/" class="button next scrolly">Back</a></li>
 </ul>
 
