@@ -4,10 +4,10 @@ plugins:
 # site settings
 title: Malik Bennabi
 subtitle: Cyber Security, SOAR, Threat Automation Engineer | Governance & Audit Specialist
-email: malik.bennabi@cyberservices.com
+email: hello@malikbennabi.com
 description: It is not about tools, it is more about using them well.<br /> 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://malcom327.github.io/
+url: malikbennabi.com
 author: Malik Bennabi
 #street_address: 
 city: Northwest 
