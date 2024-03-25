@@ -10,11 +10,11 @@ description: It is not about tools, it is more about using them well.<br />
 url: malikbennabi.com
 author: Malik Bennabi
 #street_address: 
-city: Northwest 
+#city: Northwest 
 #state: 
 #zip_code: 
 country: United Kingdom
-phone: +44 Coming soon
+phone: Drop me a line and I call you back
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -30,7 +30,7 @@ socials:
 
 defaults:
   - scope:
-      path: ""
+      path: "/"
     values:
       image: /assets/images/complexquery.png
 
