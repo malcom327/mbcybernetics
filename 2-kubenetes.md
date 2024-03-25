@@ -53,5 +53,5 @@ Implementation: Integrated EDR solutions such as CrowdStrike and CarbonBlack, al
 
 
 <ul class="actions">
-<li><a href="https://malcom327.github.io//mbcybernetics/" class="button next scrolly">Back</a></li>
+<li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
