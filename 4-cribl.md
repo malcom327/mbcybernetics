@@ -13,5 +13,5 @@ Endpoint Detection and Response (EDR) tools play a crucial role in cybersecurity
 
 
 <ul class="actions">
-<li><a href="https://malcom327.github.io//mbcybernetics/" class="button next scrolly">Back</a></li>
+<li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
