@@ -86,9 +86,7 @@ Mühendislikte Yapay Zeka ve Uygulamaları 2; ISBN, 978-605-2238-08-0, Sakarya �
 Aralık (December) 2018, SAKARYA</dd></p>
 
 ## News
-
 Alpaca Experience, Peru
-  
   <div id="news">
     <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; height: auto;">
   </div>
