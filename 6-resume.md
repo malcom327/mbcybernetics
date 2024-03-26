@@ -10,17 +10,6 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
-
-  <style>
-    /* CSS for round image */
-    .logo {
-      border-radius: 50%; /* Makes the image round */
-      width: 80px; height: 80px;
-    }
-    .news {
-      width: 800px; height: auto; /* Makes the image round */
-    }
-  </style>
   
 ## Certifications
 - Certified Ethical Hacker (CEH) (In progress)
@@ -50,6 +39,18 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - UK Health Security Agency
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
+
+
+  <style>
+    /* CSS for round image */
+    .logo {
+      border-radius: 50%; /* Makes the image round */
+      width: 80px; height: 80px;
+    }
+    .news {
+      width: 800px; height: auto; /* Makes the image round */
+    }
+  </style>
   
   <div id="logoBanner">
     <img src="../assets/images/AT.png" alt="Algérie Télécom" class="logo">
