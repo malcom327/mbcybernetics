@@ -26,7 +26,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - SAP: Concepts and Initiation.
 
 
-## Clients & Companies Worked With 
+## They Trusted My Work & Services 
 - Algérie Télécom
 - Sakarya Üniversitesi
 - Universidad De Oviedo
