@@ -96,7 +96,7 @@ Alpaca Experience, Peru
     }
   </style>
   
-  <div id="logoBanner">
+  <div id="news">
     <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" class="">
     <!-- Add more logo images as needed -->
   </div>
