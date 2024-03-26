@@ -39,30 +39,21 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - UK Health Security Agency
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
-
-  <style>
-    /* CSS for images */
-    img {
-      width: 80px; /* Set width to desired size */
-      height: 80px; /* Automatically adjust height to maintain aspect ratio */
-    }
-  </style>
   
   <div id="logoBanner">
-    <img src="../assets/images/AT.png" alt="Algérie Télécom" class="logo">
-    <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" class="logo">
-    <img src="../assets/images/uniovi.png" alt="Universidad De Oviedo" class="logo">
-    <img src="../assets/images/USF.png" alt="USF" class="logo">
-    <img src="../assets/images/NSF.jpeg" alt="NSF" class="logo">
-    <img src="../assets/images/i-sen.png" alt="I-Sen" class="logo">
-    <img src="../assets/images/turkcell.jpeg" alt="Turkcell" class="logo">
-    <img src="../assets/images/fxcubic.png" alt="FXC" class="logo">
-    <img src="../assets/images/wtw.jpeg" alt="WTW" class="logo">
-    <img src="../assets/images/dhsc.jpeg" alt="DHSC" class="logo">
-    <img src="../assets/images/ukhsa.jpeg" alt="WTW" class="logo">
-    <img src="../assets/images/flutter.jpeg" alt="WTW" class="logo">
-    <img src="../assets/images/jci.png" alt="JCI" class="logo">
-    <!-- Add more logo images as needed -->
+    <img src="../assets/images/AT.png" alt="Algérie Télécom" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/uniovi.png" alt="Universidad De Oviedo" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/USF.png" alt="USF" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/NSF.jpeg" alt="NSF" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/i-sen.png" alt="I-Sen" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/turkcell.jpeg" alt="Turkcell" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/fxcubic.png" alt="FXC" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/wtw.jpeg" alt="WTW" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/dhsc.jpeg" alt="DHSC" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/ukhsa.jpeg" alt="WTW" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/flutter.jpeg" alt="WTW" style="width: 80px; height: 80px;" class="logo">
+    <img src="../assets/images/jci.png" alt="JCI" style="width: 80px; height: 80px;" class="logo">
   </div>
 
  
