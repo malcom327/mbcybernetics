@@ -88,16 +88,9 @@ Aralık (December) 2018, SAKARYA</dd></p>
 ## News
 
 Alpaca Experience, Peru
-  <style>
-    /* CSS for images */
-    img {
-      width: 800px; /* Set width to desired size */
-      height: auto /* Automatically adjust height to maintain aspect ratio */
-    }
-  </style>
   
   <div id="news">
-    <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" class="">
+    <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; border: 2px solid blue;">
     <!-- Add more logo images as needed -->
   </div>
 
