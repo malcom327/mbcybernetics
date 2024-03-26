@@ -85,6 +85,22 @@ International Journal of Machine Learning and Networked Collaborative Engineerin
 Mühendislikte Yapay Zeka ve Uygulamaları 2; ISBN, 978-605-2238-08-0, Sakarya Üniversitesi Kütüphanesi Yayınevi, 1. Baskı,
 Aralık (December) 2018, SAKARYA</dd></p>
 
+## News
+
+Alpaca Experience, Peru
+  <style>
+    /* CSS for images */
+    img {
+      width: 800px; /* Set width to desired size */
+      height: auto /* Automatically adjust height to maintain aspect ratio */
+    }
+  </style>
+  
+  <div id="logoBanner">
+    <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" class="">
+    <!-- Add more logo images as needed -->
+  </div>
+
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
