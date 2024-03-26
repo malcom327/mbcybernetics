@@ -90,7 +90,7 @@ Aralık (December) 2018, SAKARYA</dd></p>
 Alpaca Experience, Peru
   
   <div id="news">
-    <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; border: 2px solid blue;">
+    <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; height: auto;">
   </div>
 
 
