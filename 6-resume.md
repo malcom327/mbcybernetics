@@ -91,7 +91,6 @@ Alpaca Experience, Peru
   
   <div id="news">
     <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; border: 2px solid blue;">
-    <!-- Add more logo images as needed -->
   </div>
 
 
