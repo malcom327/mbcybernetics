@@ -93,7 +93,7 @@ Alpaca Experience, Peru
     <img src="../assets/images/alpacaexperience.jpeg" alt="Alpaca Experience" style="width: 800px; height: auto;">
   </div>
 
-Research Collaboration with USF & NSF
+Research USF & NSF, Spain & USA
 
   <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px;">
     <h2 style="font-size: 18px;">Research Collaboration with USF & NSF</h2>
