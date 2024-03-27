@@ -82,9 +82,10 @@ I-Sen, Asturias, Spain
   <div id="news">
     <img src="../assets/images/isen1.jpeg" alt="I-Sen" style="width: 800px; height: auto;">
   </div>
-
-  <div style="margin-bottom: 20px;">
-    <h2 style="font-size: 18px; margin-bottom: 5px;"><a href="[article1.html](https://www.lne.es/gijon/2017/03/27/aplicacion-detectar-bullying-innovacion-social-19354241.html)" class="article-link">I-Sen Bullying Prevention App</a></h2>
+  
+  <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px;">
+    <h2 style="font-size: 18px;">I-Sen Bullying Prevention App</h2>
+    <iframe src="[article1.html](https://www.lne.es/gijon/2017/03/27/aplicacion-detectar-bullying-innovacion-social-19354241.html)" style="width: 100%; height: 200px; border: none;"></iframe>
   </div>
   
 Alpaca Experience, Peru
