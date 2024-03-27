@@ -83,7 +83,7 @@ I-Sen, Asturias, Spain
     <img src="../assets/images/isen1.jpeg" alt="I-Sen" style="width: 800px; height: auto;">
   </div>
   
-  <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px;">
+  <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px; background-color: #f0f0f0">
     <h2 style="font-size: 18px;">I-Sen Bullying Prevention App</h2>
     <iframe src="https://www.lne.es/gijon/2017/03/27/aplicacion-detectar-bullying-innovacion-social-19354241.html" style="width: 100%; height: 500px; border: none;"></iframe>
   </div>
