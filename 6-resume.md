@@ -94,8 +94,9 @@ Alpaca Experience, Peru
   </div>
 
 Research Collaboration with USF & NSF
-  <div style="margin-bottom: 20px;">
-    <h2 style="font-size: 18px; margin-bottom: 5px;"><a href="[article2.html](https://www.lne.es/verano/2017/07/26/oviedo-florida-19264744.html)" class="article-link">Research Collaboration with USF & NSF</a></h2>
+  <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px;">
+    <h2 style="font-size: 18px;">esearch Collaboration with USF & NSF</h2>
+    <iframe src="https://www.lne.es/verano/2017/07/26/oviedo-florida-19264744.html" style="width: 100%; height: 500px; border: none; background-color: #f0f0f0 "></iframe>
   </div>
 
 <ul class="actions">
