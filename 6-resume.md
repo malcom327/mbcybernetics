@@ -66,6 +66,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Turkish
 - Berber
 - Arabic
+- Italian
 
 <hr class="major" />
 
