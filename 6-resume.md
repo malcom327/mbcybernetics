@@ -41,19 +41,19 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Johnson Controls
   
 <div id="logoBanner">
-    <img src="../assets/images/AT.png" alt="Algérie Télécom" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/uniovi.png" alt="Universidad De Oviedo" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/USF.png" alt="USF" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/NSF.jpeg" alt="NSF" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/i-sen.png" alt="I-Sen" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/turkcell.jpeg" alt="Turkcell" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/fxcubic.png" alt="FXC" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/wtw.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/dhsc.jpeg" alt="DHSC" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/ukhsa.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/flutter.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
-    <img src="../assets/images/jci.png" alt="JCI" style="width: 80px; height: 80px; border-radius: 50%;" class="logo">
+    <img src="../assets/images/AT.png" alt="Algérie Télécom" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/sau.png" alt="Sakarya Üniversitesi" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/uniovi.png" alt="Universidad De Oviedo" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/USF.png" alt="USF" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/NSF.jpeg" alt="NSF" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/i-sen.png" alt="I-Sen" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/turkcell.jpeg" alt="Turkcell" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/fxcubic.png" alt="FXC" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/wtw.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/dhsc.jpeg" alt="DHSC" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/ukhsa.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/flutter.jpeg" alt="WTW" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
+    <img src="../assets/images/jci.png" alt="JCI" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
   </div>
 
  
