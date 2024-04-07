@@ -25,6 +25,8 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Cisco Certified Network Associate (2011)
 - SAP: Concepts and Initiation.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12a4498a-021d-405b-ba52-46b33e9265b8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## They Trusted My Expertise
 - Algérie Télécom
