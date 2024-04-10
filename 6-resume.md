@@ -73,6 +73,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - Berber
 - Arabic
 - Italian
+- Maltese
 
 <hr class="major" />
 
