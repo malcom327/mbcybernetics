@@ -12,6 +12,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 </ul>
   
 ## Certifications
+- ISC2 Certified in CyberSecurity (CC)
 - Certified Ethical Hacker (CEH) (In progress)
 - Palo Alto Networks Certified Security Automation Engineer (PCSAE) (In progress)
 - Skybox Security Certified Vulnerability Control Expert (SCVCE)
