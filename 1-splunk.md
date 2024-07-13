@@ -2,7 +2,7 @@
 layout: post
 title: SIEM 
 permalink: /splunk/
-description: 'LogScale & NGSIEM, Splunk, Exabeam, IBM Qradar'
+description: 'LogScale & NGSIEM, Splunk, Exabeam, IBM Qradar, Data Pipeline (Cribl)'
 image: assets/images/splunksearch.jpg
 nav-menu: true
 ---
