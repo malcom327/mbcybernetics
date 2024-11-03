@@ -14,6 +14,7 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 ## Certifications
 - ISC2 Certified Information Systems Security Professional (CISSP)
 - ISC2 Certified in CyberSecurity (CC)
+- Cribl Certified User (CCU)
 - Certified Ethical Hacker (CEH) (In progress)
 - Palo Alto Networks Certified Security Automation Engineer (PCSAE) (In progress)
 - Skybox Security Certified Vulnerability Control Expert (SCVCE)
@@ -31,6 +32,13 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6da65470-f290-4251-92ff-7bc08bcdf2a6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="83bc5a4b-20cd-44d4-a779-797139b0bbdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="407f4ad1-e77d-49ff-aa86-06675b56e9f2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<iframe
+  src="https://certifications.cribl.io/embed/cfc7a1bd-8d13-4214-b8cd-2f250b80efaf"
+  width="60"
+  height="60"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 
 ## They Trusted My Expertise
