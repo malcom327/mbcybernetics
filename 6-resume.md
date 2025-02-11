@@ -54,6 +54,8 @@ A more traditional CV/Profile can be provided on request. In the meantime, check
 - UK Health Security Agency
 - Flutter Entertainment / PuddyPower
 - Johnson Controls
+- ISC2
+- Westminster University
   
 <div id="logoBanner">
     <img src="../assets/images/AT.png" alt="Algérie Télécom" style="width: 80px; height: 80px; border-radius: 30%;" class="logo">
