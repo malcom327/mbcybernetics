@@ -16,7 +16,7 @@ Whether conducting sessions on SOAR platforms like Demisto XSOAR or imparting in
 
 Additionally, I have successfully managed third-party resources, optimizing collaboration and project outcomes, and mentored interns, providing them with a valuable foundation for their careers in the dynamic field of cybersecurity.
 
-Beyond my professional role, I am an active volunteer with ISC², contributing as a Congress and Exam Development Subject Matter Expert (SME). This involvement allows me to shape the future of cybersecurity certifications and ensure that industry standards remain rigorous and relevant. Furthermore, I volunteer at Westminster University as a career and prospective research mentor, guiding aspiring cybersecurity professionals in their academic and career development. These engagements reflect my deep commitment to nurturing the next generation of cybersecurity experts and reinforcing a strong, knowledgeable workforce in the industry. 
+Beyond my professional role, I am an active volunteer with ISC², contributing as a Congress Moderator and Exam Development Subject Matter Expert (SME). This involvement allows me to shape the future of cybersecurity certifications and ensure that industry standards remain rigorous and relevant. Furthermore, I volunteer at Westminster University as a career and prospective research mentor, guiding aspiring cybersecurity professionals in their academic and career development. These engagements reflect my deep commitment to nurturing the next generation of cybersecurity experts and reinforcing a strong, knowledgeable workforce in the industry. 
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
